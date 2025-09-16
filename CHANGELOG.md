@@ -1,6 +1,23 @@
 # Changelog
 
-## 5.0.1 (2025-03-14)
+## 5.1.0 (2025-07-24)
+
+#### 🔗 Dependencies
+
+- Revert `release-it` for Node@18 compatibility [#962](https://github.com/node-saml/passport-saml/pull/962)
+- Update minor dependencies [#961](https://github.com/node-saml/passport-saml/pull/961)
+
+#### 📚 Documentation
+
+- Update Sponsor information - Stytch [#960](https://github.com/node-saml/passport-saml/pull/960)
+
+#### ⚙️ Technical Tasks
+
+- Lint [#954](https://github.com/node-saml/passport-saml/pull/954)
+
+---
+
+## v5.0.1 (2025-03-14)
 
 #### 🔗 Dependencies
 
